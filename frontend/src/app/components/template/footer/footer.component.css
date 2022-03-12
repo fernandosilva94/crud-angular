@@ -1,0 +1,12 @@
+.foolter {
+  position: fixed;
+  bottom: 0;
+
+  display: flex;
+  justify-content: flex-end;
+}
+
+.foolter span {
+  font-weight: 400;
+  font-size: 14px;
+}
